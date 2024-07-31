@@ -9,4 +9,3 @@
 **<p align='center'>You can find the website live <a href="https://nqueen.netlify.app/">here</a></p>**
 
 
-![image](https://github.com/user-attachments/assets/fafb2bca-283c-4ccc-9fbc-e045170821cc)
